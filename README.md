@@ -5,8 +5,8 @@ You need python3 to run this program, by typing this command:
 `python3 python-for-beginners01.py`
 
 First install pipenv Then:
-``
-pipenv install
-pipenv run "python python-for-beginners-01.py"
+
+``pipenv install
+pipenv run "python Meteor01/python-for-beginners-01.py"
 ``
 #So basically pretty simple stuff.
